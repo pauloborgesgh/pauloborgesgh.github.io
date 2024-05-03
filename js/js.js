@@ -1,4 +1,4 @@
-const socket = io('http://pauloborgesgh.github.io'); // Substitua localhost pelo IP do seu servidor
+const socket = io('https://pauloborgesgh.github.io'); // Substitua localhost pelo IP do seu servidor
 
 const messagesContainer = document.getElementById('messages');
 const inputMsg = document.getElementById('input-msg');
